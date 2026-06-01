@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.sdf
+*.db
+*.opendb
+
+# Build results
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# NuGet packages
+packages/
+!packages.config
+
+# Libraries (если нужно)
+# glm/  - раскомментируйте, если glm подключается через NuGet
+
+# OS files
+.DS_Store
+Thumbs.db
